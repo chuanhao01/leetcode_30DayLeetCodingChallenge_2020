@@ -4,7 +4,7 @@ Question:
 ```
 ```
 
-Examples: 
+Example 1;
 
 
 Solution: 
@@ -13,4 +13,8 @@ Solution:
 ```
 
 Explaination:
+
+Time Complexity:
+
+Space Complexity:
 
