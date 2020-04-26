@@ -1,10 +1,10 @@
 # Day num
 
-Question: 
+Question:  
 ```
 ```
 
-Example 1;
+Example 1:  
 
 
 Solution: 
@@ -12,9 +12,9 @@ Solution:
 ```cpp
 ```
 
-Explaination:
+Explaination:  
 
-Time Complexity:
+Time Complexity:  
 
-Space Complexity:
+Space Complexity:  
 
