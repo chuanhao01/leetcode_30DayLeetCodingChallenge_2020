@@ -49,3 +49,15 @@ Also side note, they locked all the last challenge of every week and as such I w
 | Day 19 | Search in Rotated Sorted Array| [Link](wk1/d19.md)|
 | Day 20 | Construct Binary Search Tree from Preorder Traversal| [Link](wk1/d20.md)|
 | Day 21 | Leftmost Column with at least a One| [Link](wk1/d21.md)|
+
+## Week 4
+
+| Day   | Question | Link |
+| ----- | -------- | ---- |
+| Day 22 | Subarray Sum Equals K| [Link](wk1/d22.md)|
+| Day 23 | Bitwise AND of Numbers Range| [Link](wk1/d23.md)|
+| Day 24 | LRU Cache| [Link](wk1/d24.md)|
+| Day 25 | Jump game| [Link](wk1/d25.md)|
+| Day 26 | Longest Common Subsequence| [Link](wk1/d26.md)|
+| Day 27 | Maximal Square| [Link](wk1/d27.md)|
+| Day 28 | First Unique Number| [Link](wk1/d28.md)|
