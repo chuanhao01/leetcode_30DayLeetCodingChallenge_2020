@@ -10,3 +10,18 @@ As such, after being encouraged by a friend to do more of this style of programm
 So in this repo, you will see me try (and sometimes fail) at some of these questions, will trying my best to explain the solutions and adding in some of my thought process.  
 
 Hopefully if anyone reads this, I hope it helps you :D.  
+
+Also side note, they locked all the last challenge of every week and as such I was not able to do day's 30 challenge, why :C.  
+
+## Quick links below
+
+Week 1
+| Day   | Question | Link |
+| ----- | -------- | ---- |
+| Day 1 |Single Number | [Link](wk1/d1.md)|
+| Day 2 | Happy Number| [Link](wk1/d2.md)|
+| Day 3 | Maximum Subarray| [Link](wk1/d3.md)|
+| Day 4 | Move Zeroes| [Link](wk1/d4.md)|
+| Day 5 | Best Time to Buy and Sell Stock II| [Link](wk1/d5.md)|
+| Day 6 | Group Anagrams| [Link](wk1/d6.md)|
+| Day 7 | Counting Elements| [Link](wk1/d7.md)|
