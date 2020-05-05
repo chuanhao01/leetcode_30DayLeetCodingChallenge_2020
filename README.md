@@ -15,7 +15,7 @@ Also side note, they locked all the last challenge of every week and as such I w
 
 ## Quick links below
 
-Week 1
+### Week 1
 | Day   | Question | Link |
 | ----- | -------- | ---- |
 | Day 1 |Single Number | [Link](wk1/d1.md)|
