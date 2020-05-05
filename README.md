@@ -25,3 +25,15 @@ Also side note, they locked all the last challenge of every week and as such I w
 | Day 5 | Best Time to Buy and Sell Stock II| [Link](wk1/d5.md)|
 | Day 6 | Group Anagrams| [Link](wk1/d6.md)|
 | Day 7 | Counting Elements| [Link](wk1/d7.md)|
+
+### Week 2
+
+| Day   | Question | Link |
+| ----- | -------- | ---- |
+| Day 8 | Middle of the Linked List| [Link](wk1/d8.md)|
+| Day 9 | Backspace String Compare| [Link](wk1/d9.md)|
+| Day 10 | Min Stack| [Link](wk1/d10.md)|
+| Day 11 | Diameter of Binary Tree| [Link](wk1/d11.md)|
+| Day 12 | Last Stone Weight| [Link](wk1/d12.md)|
+| Day 13 | Contiguous Array| [Link](wk1/d13.md)|
+| Day 14 | Perform String Shifts| [Link](wk1/d14.md)|
