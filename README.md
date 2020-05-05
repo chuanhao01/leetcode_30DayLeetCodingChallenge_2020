@@ -37,3 +37,15 @@ Also side note, they locked all the last challenge of every week and as such I w
 | Day 12 | Last Stone Weight| [Link](wk1/d12.md)|
 | Day 13 | Contiguous Array| [Link](wk1/d13.md)|
 | Day 14 | Perform String Shifts| [Link](wk1/d14.md)|
+
+### Week 3
+
+| Day   | Question | Link |
+| ----- | -------- | ---- |
+| Day 15 | Product of Array Except Self| [Link](wk1/d15.md)|
+| Day 16 | Valid Parenthesis String| [Link](wk1/d16.md)|
+| Day 17 | Number of Islands| [Link](wk1/d17.md)|
+| Day 18 | Minimum Path Sum| [Link](wk1/d18.md)|
+| Day 19 | Search in Rotated Sorted Array| [Link](wk1/d19.md)|
+| Day 20 | Construct Binary Search Tree from Preorder Traversal| [Link](wk1/d20.md)|
+| Day 21 | Leftmost Column with at least a One| [Link](wk1/d21.md)|
