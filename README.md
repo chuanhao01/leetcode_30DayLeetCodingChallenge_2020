@@ -1,4 +1,6 @@
-# leetcode_30daychallenege2020
+# Leetcode 30 day challenege 2020
+
+**This project has been archived as of 27/09/2020**
 
 This was my solutions and attempts for this year's new leetcode 30 day challenge amid the coiv-19 situation happening around the world at this moment.  
 
